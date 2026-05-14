@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: Freelance projects<br>👯 Open to collaboration on: Web development and creative projects<br>🤝 Seeking help with: Crafting exceptional UI/UX designs<br>🌱 Learning: Mandarin and Fullstack Development<br>💬 Ask me about: Programming and creative project ideas<br>⚡ Fun fact: I love creating things that are minimal yet impactful!
+🔭 Currently working on: SCICOM (MSC) Berhad <br>👯 Open to collaboration on: Web development and creative projects<br>🤝 Seeking help with: Crafting exceptional UI/UX designs<br>🌱 Learning: Mandarin and Fullstack Development<br>💬 Ask me about: Programming and creative project ideas<br>⚡ Fun fact: I love creating things that are minimal yet impactful!
 
 
 ## 🌐 Socials:
